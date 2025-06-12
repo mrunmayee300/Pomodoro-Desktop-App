@@ -13,28 +13,16 @@ A lightweight productivity desktop application built with Python's Tkinter that 
 - 🖥️ Simple and responsive GUI
 - 🧵 Multithreaded timer to prevent GUI freezing
 
----
-
-## 🛠️ Tech Stack
-
-- **Language:** Python 3.x
-- **GUI:** Tkinter (built-in)
-- **Multithreading:** Python `threading` module
-- **No external dependencies** required
-
----
 
 ## 📸 Screenshots
 
-![App Screenshot](https://via.placeholder.com/500x300?text=App+Screenshot+Here)
+![image](https://github.com/user-attachments/assets/2a259ec4-b7da-4f47-8565-086b076b5020)
 
-> _(Replace with your actual screenshot or remove this section if not needed)_
 
----
 
 ## 📦 How to Run
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/todo-pomodoro-app.git
+   git clone https://github.com/mrunmayee300/todo-pomodoro-app.git
    cd todo-pomodoro-app
